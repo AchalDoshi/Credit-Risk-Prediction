@@ -9,3 +9,5 @@ Google Colab Link:
 https://colab.research.google.com/drive/15ofoVXP4rKojkNTqNm3WL35BkCMKyNKE?usp=sharing
 
 Presentation Link:
+
+https://docs.google.com/presentation/d/1uOs8Md1aA8epbtjEalowB2Oj-dAs-h8z/edit?usp=sharing&ouid=103685724193697672512&rtpof=true&sd=true
